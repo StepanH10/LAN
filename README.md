@@ -13,7 +13,7 @@ H(72)+O(79)+D(68)+B(66)+O(79)+D(68) = 432
 432 mod 256 = **176**
 
 ## Screenshoty
-#configurace switche
+# configurace switche
 <img width="223" height="40" alt="image" src="https://github.com/user-attachments/assets/17c574b7-3e4d-4ed4-a37d-81d8fc6bb975" />
   
 <img width="657" height="167" alt="image" src="https://github.com/user-attachments/assets/06568b36-1525-4cf0-8697-0debe94ce682" />
